@@ -30,15 +30,15 @@ public class Solution {
     }
 
     private static int maxContig(int[] arr) {
-        int maxEndingHere = arr[0];
-        int maxSoFar = arr[0];
+        int currentMax = arr[0];
+        int overallMax = arr[0];
 
         for (int i = 1; i < arr.length; i++) {
-            maxEndingHere = Math.max(arr[i], maxEndingHere + arr[i]);
-            maxSoFar = Math.max(maxSoFar, maxEndingHere);
+            currentMax = Math.max(arr[i], currentMax + arr[i]);
+            overallMax = Math.max(currentMax, overallMax);
         }
 
-        return maxSoFar;
+        return overallMax;
     }
 
     private static int maxNotContig(int[] arr) {
