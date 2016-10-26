@@ -3,9 +3,9 @@ Here are all my solutions to numerous HackerRank challenges as I complete them. 
 
 My solutions are broken up into the sections mimicking the categories found on their website. However, they are also broken up by their marked difficulty down below:
 
-1. [Easy](#Easy)
-2. [Medium](#Medium)
-3. [Hard](#Hard)
+1. [Easy](#easy)
+2. [Medium](#medium)
+3. [Hard](#hard)
 
 If you're looking for a certain category:
 
