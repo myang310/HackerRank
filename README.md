@@ -9,8 +9,8 @@ My solutions are broken up into the sections mimicking the categories found on t
 
 If you're looking for a certain category:
 
-1. [Cracking the Code Interview](./CrackingtheCodeInterview/)
-2. [Dynamic Programming](./DynamicProgramming/)
+1. [Cracking the Code Interview](./CrackingtheCodeInterview/README.md)
+2. [Dynamic Programming](./DynamicProgramming/README.md)
 
 ## Easy
 
