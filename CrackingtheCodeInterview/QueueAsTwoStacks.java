@@ -10,6 +10,8 @@ In this challenge, you must first implement a queue using two stacks. Then proce
 1 x: Enqueue element  into the end of the queue.
 2: Dequeue the element at the front of the queue.
 3: Print the element at the front of the queue.
+
+Link: https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
 */
 
 import java.io.*;

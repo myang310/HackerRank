@@ -5,6 +5,8 @@ possible sum of a:
 2. Non-contiguous (not necessarily contiguous) subarray.
 
 Empty subarrays/subsequences should not be considered.
+
+Link: https://www.hackerrank.com/challenges/maxsubarray
 */
 
 import java.io.*;

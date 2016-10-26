@@ -28,6 +28,8 @@ Or more specifically;
 If you can think of a way to store the checked solutions, then
 this store can be used to avoid checking the same solution again
 and again.
+
+Link: https://www.hackerrank.com/challenges/coin-change
 */
 
 import java.io.*;
