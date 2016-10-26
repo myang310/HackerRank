@@ -18,7 +18,8 @@ If you're looking for a certain category:
 1. [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
 2. [Ice Cream Parlor](./CrackingtheCodeInterview/IceCreamParlor.java)
 3. [Queues: A Tale of Two Stacks](./CrackingtheCodeInterview/QueueAsTwoStacks.java)
-4. [The Maximum Subarray](./DynamicProgramming/TheMaximumSubarray.java)
+4. [Stock Maximimize](./DynamicProgramming/StockMaximize.java)
+5. [The Maximum Subarray](./DynamicProgramming/TheMaximumSubarray.java)
 
 ## Hard
 1. [The Coin Change Problem](./DynamicProgramming/CoinChange.java)
