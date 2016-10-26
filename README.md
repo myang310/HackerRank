@@ -1,4 +1,4 @@
-# HackerRank Challenge Solutions
+# HackerRank Solutions
 Here are all my solutions to numerous HackerRank challenges as I complete them. This is my personal effort to improve on my problem solving skills and to prepare for future technical interviews. Feel free to browse through them and let me know if you see any solutions that could be optimized further. Thank you!
 
 My solutions are broken up into the sections mimicking the categories found on their website. However, they are also broken up by their marked difficulty down below:
