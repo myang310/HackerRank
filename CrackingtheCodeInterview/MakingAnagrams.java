@@ -45,7 +45,7 @@ public class Solution {
         Iterator it = firstMap.entrySet().iterator();
         while (it.hasNext()) {
             Map.Entry entry = (Map.Entry)it.next();
-            numNeeded += firstMap.get(entry.getKey());
+            numNeeded += (int)entry.getValue();
         }
 
         return numNeeded;
