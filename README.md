@@ -13,6 +13,11 @@ If you're looking for a certain category:
 2. [Dynamic Programming](./DynamicProgramming/)
 
 ## Easy
+1. [Array: Left Rotation](./CrackingtheCodeInterview/ArrayLeftRotation.java)
+2. [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
+3. [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
+
+
 
 ## Medium
 1. [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
