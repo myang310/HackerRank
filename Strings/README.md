@@ -6,4 +6,4 @@ List of all solutions:
 * [Camel Case](./CamelCase.java)
 * [Mars Exploration](./MarsExploration.java)
 * [Pangrams](./Pangrams.java)
-* [ReducedString](./ReducedString.java)
+* [Super Reduced String](./SuperReducedString.java)

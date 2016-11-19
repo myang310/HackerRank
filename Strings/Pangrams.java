@@ -8,7 +8,7 @@ alphabet at least once.)
 After typing the sentence several times, Roy became bored with
 it. So he started to look for other pangrams.
 
-Given a sentence , tell Roy if it is a pangram or not.
+Given a sentence s, tell Roy if it is a pangram or not.
 
 Link: https://www.hackerrank.com/challenges/pangrams
 */
