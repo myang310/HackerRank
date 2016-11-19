@@ -2,4 +2,4 @@
 
 List of all solutions:
 
-* [New Year Chaos](./ConstructiveAlgorithms/NewYearChaos.java)
+* [New Year Chaos](./NewYearChaos.java)
