@@ -17,8 +17,11 @@ If you're looking for a certain category:
 
 ## Easy
 1. [Array: Left Rotation](./CrackingtheCodeInterview/ArrayLeftRotation.java)
-2. [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
-3. [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
+2. [Caesar Cipher](./Strings/CaesarCipher.java)
+3. [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
+4. [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
+5. [Pangrams](./Strings/Pangrams.java)
+6. [ReducedString](./Strings/ReducedString.java)
 
 ## Medium
 1. [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
