@@ -9,19 +9,24 @@ My solutions are broken up into the sections mimicking the categories found on t
 
 If you're looking for a certain category:
 
-1. [Camel Case](./Strings/CamelCase.java)
-2. [Compare the Triplets](./Warmup/CompareTheTriplets.java)
-3. [Cracking the Code Interview](./CrackingtheCodeInterview/)
-4. [Dynamic Programming](./DynamicProgramming/)
-5. [Sock Merchant](./Implementations/SockMerchant.java)
+1. [Cracking the Code Interview](./CrackingtheCodeInterview/)
+2. [Dynamic Programming](./DynamicProgramming/)
+3. [Implementations](./Implementations/)
+4. [Miscellaneous](./Miscellaneous/)
+5. [Strings](./Strings/)
+6. [Warmup](./Warmup/)
 
 ## Easy
 1. [Array: Left Rotation](./CrackingtheCodeInterview/ArrayLeftRotation.java)
 2. [Caesar Cipher](./Strings/CaesarCipher.java)
-3. [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
-4. [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
-5. [Pangrams](./Strings/Pangrams.java)
-6. [ReducedString](./Strings/ReducedString.java)
+3. [Camel Case](./Strings/CamelCase.java)
+2. [Compare the Triplets](./Warmup/CompareTheTriplets.java)
+4. [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
+5. [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
+6. [Mars Exploration](./Strings/MarsExploration.java)
+7. [Pangrams](./Strings/Pangrams.java)
+8. [ReducedString](./Strings/ReducedString.java)
+5. [Sock Merchant](./Implementations/SockMerchant.java)
 
 ## Medium
 1. [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
