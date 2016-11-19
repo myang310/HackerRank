@@ -2,8 +2,8 @@
 
 List of all solutions:
 
-1. [Caesar Cipher](./CaesarCipher.java)
-2. [Camel Case](./CamelCase.java)
-3. [Mars Exploration](./MarsExploration.java)
-4. [Pangrams](./Pangrams.java)
-5. [ReducedString](./ReducedString.java)
+* [Caesar Cipher](./CaesarCipher.java)
+* [Camel Case](./CamelCase.java)
+* [Mars Exploration](./MarsExploration.java)
+* [Pangrams](./Pangrams.java)
+* [ReducedString](./ReducedString.java)

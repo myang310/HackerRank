@@ -3,39 +3,41 @@ Here are all my solutions to numerous HackerRank challenges as I complete them. 
 
 My solutions are broken up into the sections mimicking the categories found on their website. However, they are also broken up by their marked difficulty down below:
 
-1. [Easy](#easy)
-2. [Medium](#medium)
-3. [Hard](#hard)
+* [Easy](#easy)
+* [Medium](#medium)
+* [Hard](#hard)
 
 If you're looking for a certain category:
 
-1. [Cracking the Code Interview](./CrackingtheCodeInterview/)
-2. [Dynamic Programming](./DynamicProgramming/)
-3. [Implementations](./Implementations/)
-4. [Miscellaneous](./Miscellaneous/)
-5. [Strings](./Strings/)
-6. [Warmup](./Warmup/)
+* [Constructive Algorithms](./ConstructiveAlgorithms/)
+* [Cracking the Code Interview](./CrackingtheCodeInterview/)
+* [Dynamic Programming](./DynamicProgramming/)
+* [Implementations](./Implementations/)
+* [Miscellaneous](./Miscellaneous/)
+* [Strings](./Strings/)
+* [Warmup](./Warmup/)
 
 ## Easy
-1. [Array: Left Rotation](./CrackingtheCodeInterview/ArrayLeftRotation.java)
-2. [Caesar Cipher](./Strings/CaesarCipher.java)
-3. [Camel Case](./Strings/CamelCase.java)
-2. [Compare the Triplets](./Warmup/CompareTheTriplets.java)
-4. [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
-5. [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
-6. [Mars Exploration](./Strings/MarsExploration.java)
-7. [Pangrams](./Strings/Pangrams.java)
-8. [ReducedString](./Strings/ReducedString.java)
-5. [Sock Merchant](./Implementations/SockMerchant.java)
+* [Array: Left Rotation](./CrackingtheCodeInterview/ArrayLeftRotation.java)
+* [Caesar Cipher](./Strings/CaesarCipher.java)
+* [Camel Case](./Strings/CamelCase.java)
+* [Compare the Triplets](./Warmup/CompareTheTriplets.java)
+* [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
+* [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
+* [Mars Exploration](./Strings/MarsExploration.java)
+* [Pangrams](./Strings/Pangrams.java)
+* [ReducedString](./Strings/ReducedString.java)
+* [Sock Merchant](./Implementations/SockMerchant.java)
 
 ## Medium
-1. [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
-2. [Ice Cream Parlor](./CrackingtheCodeInterview/IceCreamParlor.java)
-3. [Is This a Binary Search Tree?](./CrackingtheCodeInterview/IsThisBST.java)
-4. [Making Anagrams](./CrackingtheCodeInterview/MakingAnagrams.java)
-5. [Queues: A Tale of Two Stacks](./CrackingtheCodeInterview/QueueAsTwoStacks.java)
-6. [Stock Maximize](./DynamicProgramming/StockMaximize.java)
-7. [The Maximum Subarray](./DynamicProgramming/TheMaximumSubarray.java)
+* [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
+* [Ice Cream Parlor](./CrackingtheCodeInterview/IceCreamParlor.java)
+* [Is This a Binary Search Tree?](./CrackingtheCodeInterview/IsThisBST.java)
+* [Making Anagrams](./CrackingtheCodeInterview/MakingAnagrams.java)
+* [New Year Chaos](./ConstructiveAlgorithms/NewYearChaos.java)
+* [Queues: A Tale of Two Stacks](./CrackingtheCodeInterview/QueueAsTwoStacks.java)
+* [Stock Maximize](./DynamicProgramming/StockMaximize.java)
+* [The Maximum Subarray](./DynamicProgramming/TheMaximumSubarray.java)
 
 ## Hard
-1. [The Coin Change Problem](./DynamicProgramming/CoinChange.java)
+* [The Coin Change Problem](./DynamicProgramming/CoinChange.java)

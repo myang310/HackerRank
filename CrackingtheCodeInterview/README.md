@@ -2,10 +2,10 @@
 
 List of all solutions:
 
-1. [Array: Left Rotation](./ArrayLeftRotation.java)
-2. [Detect Cycle](./DetectCycle.java)
-3. [Ice Cream Parlor](./IceCreamParlor.java)
-4. [Is This a Binary Search Tree?](./IsThisBST.java)
-5. [Making Anagrams](./MakingAnagrams.java)
-6. [Queues: A Tale of Two Stacks](./QueueAsTwoStacks.java)
-7. [Hash Tables: Ransom Note](./RansomNote.java)
+* [Array: Left Rotation](./ArrayLeftRotation.java)
+* [Detect Cycle](./DetectCycle.java)
+* [Hash Tables: Ransom Note](./RansomNote.java)
+* [Ice Cream Parlor](./IceCreamParlor.java)
+* [Is This a Binary Search Tree?](./IsThisBST.java)
+* [Making Anagrams](./MakingAnagrams.java)
+* [Queues: A Tale of Two Stacks](./QueueAsTwoStacks.java)
