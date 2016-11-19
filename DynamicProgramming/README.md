@@ -2,7 +2,8 @@
 
 List of all solutions:
 
+* [Candies](./Candies.java)
+* [Coin Change](./CoinChange.java)
 * [Fibonacci Modified](./FibonacciModified.java)
 * [Stock Maximize](./StockMaximize.java)
-* [The Coin Change Problem](./CoinChange.java)
 * [The Maximum Subarray](./TheMaximumSubarray.java)

@@ -26,6 +26,7 @@ If you're looking for a certain category:
 * [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
 * [Mars Exploration](./Strings/MarsExploration.java)
 * [Pangrams](./Strings/Pangrams.java)
+* [Plus Minus](./Warmup/PlusMinus.java)
 * [ReducedString](./Strings/ReducedString.java)
 * [Sock Merchant](./Implementations/SockMerchant.java)
 
