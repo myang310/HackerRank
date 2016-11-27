@@ -31,6 +31,7 @@ If you're looking for a certain category:
 * [Sock Merchant](./Implementations/SockMerchant.java)
 
 ## Medium
+* [Bonetrousle](./ConstructiveAlgorithms/Bonetrousle.java)
 * [Fibonacci Modified](./DynamicProgramming/FibonacciModified.java)
 * [Ice Cream Parlor](./CrackingtheCodeInterview/IceCreamParlor.java)
 * [Is This a Binary Search Tree?](./CrackingtheCodeInterview/IsThisBST.java)
