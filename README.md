@@ -11,6 +11,7 @@ If you're looking for a certain category:
 
 * [Constructive Algorithms](./ConstructiveAlgorithms/)
 * [Cracking the Code Interview](./CrackingtheCodeInterview/)
+* [Data Structures](./DataStructures/)
 * [Dynamic Programming](./DynamicProgramming/)
 * [Implementations](./Implementations/)
 * [Miscellaneous](./Miscellaneous/)
@@ -22,12 +23,15 @@ If you're looking for a certain category:
 * [Caesar Cipher](./Strings/CaesarCipher.java)
 * [Camel Case](./Strings/CamelCase.java)
 * [Compare the Triplets](./Warmup/CompareTheTriplets.java)
+* [Compare Two Linked Lists](./DataStructures/LinkedList/CompareTwoLinkedLists.java)
 * [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
 * [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
 * [Mars Exploration](./Strings/MarsExploration.java)
 * [Pangrams](./Strings/Pangrams.java)
 * [Plus Minus](./Warmup/PlusMinus.java)
 * [ReducedString](./Strings/ReducedString.java)
+* [Reverse a Linked List](./DataStructures/LinkedList/ReverseLinkedList.java)
+* [Reverse a Doubly Linked List](./DataStructures/LinkedList/ReverseDoublyLinkedList.java)
 * [Sock Merchant](./Implementations/SockMerchant.java)
 
 ## Medium
@@ -38,6 +42,7 @@ If you're looking for a certain category:
 * [Making Anagrams](./CrackingtheCodeInterview/MakingAnagrams.java)
 * [New Year Chaos](./ConstructiveAlgorithms/NewYearChaos.java)
 * [Queues: A Tale of Two Stacks](./CrackingtheCodeInterview/QueueAsTwoStacks.java)
+* [Sparse Arrays](./DataStructures/Arrays/SparseArrays.java)
 * [Stock Maximize](./DynamicProgramming/StockMaximize.java)
 * [The Maximum Subarray](./DynamicProgramming/TheMaximumSubarray.java)
 
