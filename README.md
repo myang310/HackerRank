@@ -20,12 +20,14 @@ If you're looking for a certain category:
 
 ## Easy
 * [Array: Left Rotation](./CrackingtheCodeInterview/ArrayLeftRotation.java)
+* [Binary Search Tree: Lowest Ancestor](./DataStructures/Trees/BST_LowestAncestor.java)
 * [Caesar Cipher](./Strings/CaesarCipher.java)
 * [Camel Case](./Strings/CamelCase.java)
 * [Compare the Triplets](./Warmup/CompareTheTriplets.java)
 * [Compare Two Linked Lists](./DataStructures/LinkedList/CompareTwoLinkedLists.java)
 * [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
 * [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
+* [Height of a Binary Tree](./DataStructures/Trees/HeightBinaryTree.java)
 * [Mars Exploration](./Strings/MarsExploration.java)
 * [Pangrams](./Strings/Pangrams.java)
 * [Plus Minus](./Warmup/PlusMinus.java)
