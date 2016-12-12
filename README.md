@@ -26,15 +26,18 @@ If you're looking for a certain category:
 * [Compare the Triplets](./Warmup/CompareTheTriplets.java)
 * [Compare Two Linked Lists](./DataStructures/LinkedList/CompareTwoLinkedLists.java)
 * [Detect Cycle](./CrackingtheCodeInterview/DetectCycle.java)
+* [Game Of Thrones I](./Strings/GameOfThronesI.java)
 * [Hash Tables: Ransom Note](./CrackingtheCodeInterview/RansomNote.java)
 * [Height of a Binary Tree](./DataStructures/Trees/HeightBinaryTree.java)
 * [Mars Exploration](./Strings/MarsExploration.java)
+* [Palindrome Index](./Strings/PalindromeIndex.java)
 * [Pangrams](./Strings/Pangrams.java)
 * [Plus Minus](./Warmup/PlusMinus.java)
 * [ReducedString](./Strings/ReducedString.java)
 * [Reverse a Linked List](./DataStructures/LinkedList/ReverseLinkedList.java)
 * [Reverse a Doubly Linked List](./DataStructures/LinkedList/ReverseDoublyLinkedList.java)
 * [Sock Merchant](./Implementations/SockMerchant.java)
+* [The Love-Letter Mystery](./Strings/TheLoveLetterMystery.java)
 
 ## Medium
 * [Bonetrousle](./ConstructiveAlgorithms/Bonetrousle.java)
